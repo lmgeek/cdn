@@ -1,0 +1,36 @@
+body, html {
+  height: 100%;
+  background: -webkit-linear-gradient(#6BDBF7, #A88EF5);
+  //-webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 30px 0;
+  height: auto;
+}
+
+.header-container {
+  display: inline-flex;
+  text-align: center;
+  align-content: baseline;
+  padding: 20px;
+  height: auto;
+  border-radius: 20px;
+  border: 3px solid #177c53;
+
+  h1{
+    font-weight: lighter;
+  }
+}
+
+.play-icon {
+  font-size: 36px;
+  color: #177c53;
+  margin-right: 5px;
+}
+
