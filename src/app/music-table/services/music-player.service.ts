@@ -43,8 +43,9 @@ export class MusicPlayerService {
     {id: 28, name: 'Echo (Sin Voces y Click en oido izquierdo)', fileName: 'Echo.mp3', link: 'https://cdn.jsdelivr.net/gh/lmgeek/cdn/audios/Echo.mp3'},
     {id: 29, name: 'Hermoso nombre (Sin Voces y Click en oido izquierdo)', fileName: 'hermoso nombre.mp3', link: 'https://cdn.jsdelivr.net/gh/lmgeek/cdn/audios/hermoso%20nombre.mp3'},
     {id: 29, name: 'Hay un Rey (A#)', fileName: 'hay un rey.mp3', link: 'https://cdn.jsdelivr.net/gh/lmgeek/cdn/audios/hay%20un%20rey.mp3'},
-    {id: 30, name: 'Nada es Imposible - Marcos Barrientos (C)', fileName: 'hay un rey.mp3', link: 'https://cdn.jsdelivr.net/gh/lmgeek/cdn/audios/Nada%20Es%20Imposible%20-%20Marco%20Barrientos.mp3'},
-    {id: 31, name: 'Amoroso - G#', fileName: 'Amoroso Full.mp3', link: 'https://cdn.jsdelivr.net/gh/lmgeek/cdn/audios/Amoroso%20G#.mp3'},
+    {id: 30, name: 'Nada es Imposible - Marcos Barrientos (C)', fileName: 'Nada Es Imposible - Marco Barrientos.mp3', link: 'https://cdn.jsdelivr.net/gh/lmgeek/cdn/audios/Nada%20Es%20Imposible%20-%20Marco%20Barrientos.mp3'},
+    {id: 31, name: 'Nada es Imposible - Planetshakers (C)', fileName: 'Nada Es Imposible (C).mp3', link: 'https://cdn.jsdelivr.net/gh/lmgeek/cdn/audios/Nada%20Es%20Imposible%20(C).mp3'},
+    {id: 31, name: 'Amoroso - G#', fileName: 'Amoroso G#.mp3', link: 'https://cdn.jsdelivr.net/gh/lmgeek/cdn/audios/Amoroso%20G#.mp3'},
   ];
 
   public getSounds (): any[] {
